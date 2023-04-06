@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _pow_recursion - print power
+ * _pow_recursion - print power
  * @x: first value
  * @y: second value
  * Return: print value of power
